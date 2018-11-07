@@ -1,0 +1,1 @@
+This is a simple game of concentration demonstrating the execution of javascript code.

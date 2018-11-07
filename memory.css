@@ -1,0 +1,50 @@
+h1 {
+	text-align: center;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-color: navy;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+	font-size: 18pt;
+}
+
+#timer {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	border-color: gold;
+	padding: 2px;
+	border-style: solid;
+	border-width: 2px;
+	width: 15%;
+	text-align: center;
+}
+
+img {
+	border-style: solid;
+}
+
+/* for hidden card */
+img.hidden {
+	visibility: hidden;
+}
+
+/* for visible card */
+img.visible {
+	visibility: visible;
+}
+
+/* for mouse over */
+.mouseOverStyle {
+	border-color: red;
+}
+
+/* for mouse out */
+.mouseOutStyle {
+	border-color: black;
+}
